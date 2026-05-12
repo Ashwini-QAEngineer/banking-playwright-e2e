@@ -1,0 +1,7 @@
+{
+  "name": "banking-playwright-e2e", "version": "1.0.0",
+  "description": "Playwright TypeScript (E2E) automation — Banking domain",
+  "author": "Ashwini G <gashwini.de@gmail.com>", "private": true,
+  "scripts": { "test": "playwright test", "report": "playwright show-report" },
+  "devDependencies": { "@playwright/test": "^1.44.0", "typescript": "^5.4.0" }
+}
